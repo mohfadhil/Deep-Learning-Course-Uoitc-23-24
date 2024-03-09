@@ -1,2 +1,2 @@
-# Deep-Learning-Course-Uoitc-22-23
+# Deep-Learning-Course-Uoitc-23-24
 Notebooks for UOITC/BMIC/BI Deep learning course
